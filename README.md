@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # Venkata Sai Yakkshit Reddy
-[Detail-oriented computer science student with a passion for innovation, leveraging Python, Java, and AI to drive technology advancements.]
+Detail-oriented computer science student with a passion for innovation, leveraging Python, Java, and AI to drive technology advancements.
 
 ## About Me
 [Write a brief introduction about yourself, highlighting your interests, skills, and areas of expertise. This section can also include your professional background, educational background, or any other relevant information.]
