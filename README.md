@@ -45,6 +45,6 @@ Detail-oriented computer science student with a passion for innovation, leveragi
 [Provide information on how others can reach out to you, such as email address or social media handles.]
 
 ## Let's Connect
-[Optional: Include buttons or links to your social media profiles, personal website, or portfolio.]
+[connect](https://cedzlabs.com/yakkshit)
 
 Feel free to customize and add more sections as per your preferences and requirements. Remember to replace the placeholder text with your own information and project details.
