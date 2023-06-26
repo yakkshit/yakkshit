@@ -32,7 +32,7 @@ augmented reality and system administration. Overall, I am an aspiring professio
 ## Projects
 [List the projects you have worked on or are currently working on. Provide a brief description of each project and include links to their repositories or live demos if available.]
 
-- Project 1: [Project Name](link-to-repository-or-demo)
+- Project 1: [Langverzation](https://github.com/saiyakkshit/langverzation)
   - Description: [Brief description of the project]
   
 - Project 2: [Project Name](link-to-repository-or-demo)
@@ -46,7 +46,7 @@ augmented reality and system administration. Overall, I am an aspiring professio
 
 
 ## Contact
-[Provide information on how others can reach out to you, such as email address or social media handles.]
+Linkedin(https://linkedin.com/in/yakkshit)
 
 ## Let's Connect
 [connect](https://cedzlabs.com/yakkshit)
