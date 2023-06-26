@@ -46,7 +46,7 @@ augmented reality and system administration. Overall, I am an aspiring professio
 
 
 ## Contact
-Linkedin(https://linkedin.com/in/yakkshit)
+[Linkedin](https://linkedin.com/in/yakkshit)
 
 ## Let's Connect
 [connect](https://cedzlabs.com/yakkshit)
