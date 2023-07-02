@@ -30,12 +30,11 @@ augmented reality and system administration. Overall, I am an aspiring professio
 
 
 ## Projects
-[List the projects you have worked on or are currently working on. Provide a brief description of each project and include links to their repositories or live demos if available.]
 
 - Project 1: [Langverzation](Langversation)
   - Description: [Brief description of the project]
   
-- Project 2: [Project Name](link-to-repository-or-demo)
+- Project 2: [AR](link-to-repository-or-demo)
   - Description: [Brief description of the project]
   
 ...
