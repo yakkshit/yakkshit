@@ -35,7 +35,7 @@ augmented reality and system administration. Overall, I am an aspiring professio
   - Description: [Langversation is a communication, end‑to‑end encrypted multilingual chat‑based android application which was developed in kotlin. This removes the language barrier between two users. where the data used to store in the Firebase. which was being monitered in Google Analytics after the Deployment of the Application for the users.]
   
 - Project 2: [AR](link-to-repository-or-demo)
-  - Description: [Brief description of the project]
+  - Description: [compartivive analysis of webxr and arcore]
   
 ...
 
