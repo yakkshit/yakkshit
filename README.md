@@ -2,8 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiyakkshit&label=Profile%20views&color=0e75b6&style=flat" alt="yakkshit" /> </p>
 
 <!--
-**saiyakkshit/saiyakkshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
