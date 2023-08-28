@@ -24,7 +24,7 @@ Motivated and detail-oriented Software engineer with expertise in Identity & Acc
 
 ## Projects
 
-- Project 1: [Langverzation](Langversation)
+- Project 1: [Langverzation](https://github.com/yakkshit/langversation)
   - Description: [Langversation is a communication, end‑to‑end encrypted multilingual chat‑based android application which was developed in kotlin. This removes the language barrier between two users. where the data used to store in the Firebase. which was being monitered in Google Analytics after the Deployment of the Application for the users.]
   
 - Project 2: [AR](link-to-repository-or-demo)
