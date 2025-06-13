@@ -74,6 +74,8 @@ Senior Full Stack Developer focused on building scalable and reliable software. 
 <br/>
 **AR Thesis:** [🔗 View](https://thesis.yakkshit.com)
 <br/>
+**Full stack Agentic Coder:** [🔗 View](https://builder.yakkshit.com)
+<br/>
 **GitHub:** [🔗 View](https://github.com/yakkshit)
 
 ## 📊 Stats
