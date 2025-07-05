@@ -31,7 +31,7 @@
 
 Senior Full Stack Developer focused on building scalable and reliable software. Expertise in cloud architecture and DevOps practices.
 
-- 🔭 Currently developing AI-powered solutions at Nutrish AI.
+- 🔭 Currently developing AI-powered solutions at Swirl AI.
 - 🎓 BSc in Computer Science.
 - 🌱 Passionate about open source and new technologies.
 - 💬 Ask me about Full-Stack, Cloud, and DevOps!
