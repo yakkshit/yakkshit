@@ -50,12 +50,6 @@ Senior Full Stack Developer focused on building scalable and reliable software. 
 
 ## 💼 Experience
 
-**Swirl AI | Software Development and Database Management**
-<br/>
-*Dec 2024 - Present*
-- Led development of AI-driven applications.
-- Designed scalable microservices.
-
 **Nutrish AI | Full Stack Developer**
 <br/>
 *Dec 2024 - Present*
